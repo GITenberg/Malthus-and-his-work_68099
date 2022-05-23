@@ -1,0 +1,28 @@
+_repo: Malthus-and-his-work_68099
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bonar, James
+    birthdate: 1852
+    deathdate: 1941
+    gutenberg_agent_id: '38220'
+    url: http://www.gutenberg.org/2009/agents/38220
+description: ''
+gutenberg_issued: '2022-05-16'
+identifiers:
+  gutenberg: '68099'
+language: en
+pgterms:marc904: https://archive.org/details/malthusandhiswo02bonagoog
+pgterms:marc905: 20180412220445bonar
+pgterms:marc906: '1885'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :Macmillan and co.,1885.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Malthus and his work
+url: http://www.gutenberg.org/ebooks/68099
