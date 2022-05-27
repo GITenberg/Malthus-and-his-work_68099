@@ -1,5 +1,8 @@
 _repo: Malthus-and-his-work_68099
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68099-h/images/cover.jpg
 creator:
   author:
     agent_name: Bonar, James
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '38220'
     url: http://www.gutenberg.org/2009/agents/38220
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68099#Malthus-and-his-work
 gutenberg_issued: '2022-05-16'
 identifiers:
   gutenberg: '68099'
